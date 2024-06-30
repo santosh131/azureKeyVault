@@ -1,4 +1,4 @@
-# Axure portal
+# Azure portal
 - Create new **App** in App Registrations Blade
 - Create new **Client Secret** in App Registrations Blade
 - Create new **KeyVault** in KeyVault Blade with **Value Access Policy**
